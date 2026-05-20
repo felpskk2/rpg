@@ -15,7 +15,7 @@ As facções são organizações que atuam **fora do controle corporativo**. Uma
 
 ---
 
-## Facção 1 — [NOME LIVRE] (Facção dos Jogadores)
+## Facção 1 — the void (Facção dos Jogadores)
 
 > *"Ninguém sabe quantos somos. Ninguém sabe quem nos lidera. Só sabem que entregamos."*
 
