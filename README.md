@@ -11,6 +11,6 @@ Tarefa pendente [ ]
 - [x] Desejo
 - [/] Mercenários
 - [/] Regras 3D&T Victory para Void
-- [ ] 
-- [ ] 
-- [ ] 
+- [/] magias
+- [/] sub-raçãs
+
