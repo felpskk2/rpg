@@ -63,9 +63,9 @@ Distribua pontos entre os atributos (os valores comuns para 100 pontos variam en
 - Apenas Anjos podem ter esta vantagem
 
 **Implante de Desejo** (4 pontos)
-- Um órgão ou membro foi substituído por um implante alimentado por Desejo
+- Um órgão ou membro foi substituído por um implante alimentado por um micro-reator selado de Desejo
 - +1 em um atributo à escolha (F, H ou R)
-- Risco: uma vez por sessão, o mestre pode pedir um teste de R para evitar contaminação
+- Risco: uma vez por sessão, o mestre pode pedir um teste de R para evitar vazamento
 
 **Augmentado** (6 pontos)
 - Múltiplos implantes de Desejo
@@ -90,6 +90,12 @@ Distribua pontos entre os atributos (os valores comuns para 100 pontos variam en
 - +2 em testes com as asas
 - Status social elevado nos Céus
 
+**Afinidade com o Éter** (6 pontos) — Apenas Círculo do Éter
+- Você despertou para a magia real. Pode manipular o Éter em pequena escala.
+- Permite realizar **feitos menores**: acender fogo, mover objetos leves, criar luz, sentir presenças
+- Uma vez por sessão, pode tentar um **feito maior** (teste de H ou R, a critério do mestre)
+- Personagens normais não sabem que magia existe — usar poderes abertamente atrai atenção
+
 ### Passo 5: Desvantagens (recebem pontos)
 
 #### Novas Desvantagens do Void
@@ -105,7 +111,7 @@ Distribua pontos entre os atributos (os valores comuns para 100 pontos variam en
 - Pode ser forçado a fazer trabalhos para pagar a dívida
 
 **Sedento** (4 pontos)
-- Viciado em Desejo
+- Viciado em **gás Desejo** — inala vapores para ter alucinações e euforia
 - Precisa de doses regulares ou sofre penalidades (-2 em todos os testes)
 - Pode gastar pontos para se curar (tratamento caro)
 
@@ -115,9 +121,21 @@ Distribua pontos entre os atributos (os valores comuns para 100 pontos variam en
 - Pode ser um Trabalhador banido ou um Anjo Caído
 
 **Marca de Cobaia** (1 ponto)
-- Você foi um experimento da Mentes Vazias ou Carne & Metal
-- Cicatrizes, marcas ou implantes visíveis identificam sua origem
-- Penalidade social em situações formais
+- Você foi uma **fonte de extração** da Mentes Vazias ou Carne & Metal
+- Marcas de agulhas, cicatrizes de drenagem ou implantes visíveis identificam sua origem
+- Penalidade social em situações formais. Pode ser **recapturado** para nova extração.
+
+**Fonte Fugitiva** (3 pontos)
+- Você escapou de uma câmara de extração
+- Sua corporação "dona" ainda quer você de volta — você produz bem
+- Caçadores especializados podem aparecer para te recuperar
+- Se capturado, volta para a extração (personagem pode morrer)
+
+**Parcialmente Drenado** (2 pontos)
+- Você sobreviveu a uma extração incompleta, mas parte do seu Desejo foi levada
+- -1 em testes de iniciativa e vontade
+- Dificuldade para sentir emoções intensas
+- Pode se recuperar com tempo e tratamento (custo: 10 XP)
 
 **Promessa de Sangue** (3 pontos)
 - Você jurou lealdade a uma facção ou pessoa
@@ -197,5 +215,5 @@ Distribua pontos entre os atributos (os valores comuns para 100 pontos variam en
 | Passagem no trem (classe baixa) | 15 moedas |
 | Passagem no trem (classe alta) | 80 moedas |
 | Tratamento médico (simples) | 20 moedas |
-| Tratamento médico (intoxicação por Desejo) | 150 moedas |
+| Tratamento médico (exposição a gás Desejo) | 150 moedas |
 | Implante biomecânico | 500+ moedas |

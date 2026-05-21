@@ -67,37 +67,48 @@ No limite entre o permitido e o proibido, o Mercado Cinzento é onde mercenário
 
 ## 3º Nível — O Subsolo / Lixão
 
-*"Aqui embaixo, até o Desejo chora."*
+*"Dois anos atrás, isso aqui era só um depósito de lixo. Agora é a mina de ouro mais perigosa do mundo."*
 
-A base da cidade é um labirinto de túneis, estações de bombeamento de Desejo, câmaras de experimentação e favelas subterrâneas.
+A base da cidade sempre foi um labirinto de túneis e favelas subterrâneas — o depósito de lixo, o refúgio de criminosos, o esquecimento dos indesejados. Mas desde a descoberta do Desejo em 498 AG, o Subsolo virou **a fronteira mais disputada do Void**.
 
 ### Quem Vive Aqui
 
 - Criminosos foragidos
 - Exilados (incluindo os que falharam no Rito do Voo)
 - Cobaias de experimentos corporativos
-- Mineradores de Desejo (mão de obra escrava)
+- Trabalhadores da extração (segurança, operadores das câmaras)
 - Os **Esquecidos** — pessoas que ninguém procura
+- **Contrabandistas** — o Desejo ilegal corre solto aqui
 
 ### Extração do Desejo
 
-O Desejo é bombeado das profundezas por enormes perfuradoras a vapor. O lodo negro é refinado em instalações no próprio subsolo e enviado para os laboratórios corporativos nos Céus.
+O Desejo não se minera. **Extrai-se.** O Subsolo não tem perfuradoras — tem **câmaras de extração**. Salas frias onde pessoas são mantidas em estresse constante enquanto máquinas drenam o lodo negro que escorre de seus corpos.
+
+**O processo:**
+1. A fonte (prisioneiro, devedor, sequestrado) é levada a uma câmara
+2. Medicada para maximizar a produção
+3. Submetida a estímulos de medo e dor
+4. O Desejo é drenado por agulhas e sucção a vácuo
+5. Após 3-7 dias, a fonte é descartada — vazia ou morta
 
 **Os riscos:**
-- Exposição prolongada causa alucinações, depois loucura, depois... algo pior
-- Vazamentos de Desejo gasoso são frequentes
-- "Endurecidos" — mineradores que trabalharam tempo demais e se tornaram agressivos e instáveis
+- **Vazios** — fontes completamente drenadas que vagam sem rumo, sem vontade, sem nada
+- Vazamentos nas tubulações de Desejo fresco causam alucinações em massa
+- Funcionários da extração desenvolvem dependência emocional do Desejo
+- Alguns Vazios, por razões desconhecidas, continuam emitindo Desejo passivamente — são os **Espectros Vivos**
 
 ### Os Experimentos
 
 As corporações usam o Subsolo como laboratório de testes. Cobaias humanas são submetidas a:
 
-- Injeção direta de Desejo no sangue
-- Exposição a vapores concentrados
-- Implantes biomecânicos experimentais (anteres das asas dos Anjos)
-- Tentativas de criar "IA orgânica"
+- **Injeção direta de Desejo** no sangue — para criar super-soldados
+- **Exposição a vapores concentrados** — para estudar os efeitos em massa
+- **Implantes biomecânicos experimentais** — alimentados por micro-reatores de Desejo
+- **Extrações prolongadas** — para maximizar a produção por fonte
+- **Métodos de indução** — como extrair mais sem matar tão rápido
+- **Cruzas entre fontes** — tentativas de criar pessoas que produzam mais Desejo naturalmente
 
-Poucos sobrevivem. Os que sobrevivem *mudam*.
+Poucos sobrevivem. Os que sobrevivem *mudam*. E alguns viram **novas formas de extrair**.
 
 ### Conexão com o Deserto
 

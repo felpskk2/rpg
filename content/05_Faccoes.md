@@ -30,14 +30,14 @@ As facções são organizações que atuam **fora do controle corporativo**. Uma
 
 ## Facção 2 — Círculo do Éter
 
-> *"Antes da guerra, havia magia. Nós vamos trazê-la de volta."*
+> *"Antes da guerra, havia magia. E ela ainda existe. Só precisa ser lembrada."*
 
 - **Foco principal**: Restauração do conhecimento mágico perdido
 - **Território**: Acampamentos remotos próximos a ruínas pré-guerra
 - **Símbolo**: Um círculo com chamas violetas
-- **Descrição**: O **Círculo do Éter** acredita que antes da guerra das IAs, a humanidade dominava uma forma de **magia** — manipulação da realidade através de símbolos, rituais e vontade. Eles buscam relíquias, manuscritos e conhecimentos perdidos para restaurar esse poder. Seu líder é um **Anjo Caído** — um nobre que falhou no Rito do Voo, sobreviveu à queda, e alega que o Éter (a magia) sussurrou para ele durante a queda, revelando verdades esquecidas.
-- **Relação com as corporações**: Hostis. As corporações veem a "magia" como superstição perigosa.
-- **Relação com outras facções**: Tentam recrutar membros da Facção 4 (Médicos) para estudar o Desejo como possível fonte mágica.
+- **Descrição**: O **Círculo do Éter** sabe de algo que o resto do mundo esqueceu: **a magia é real**. Antes da guerra das IAs, a humanidade dominava o Éter — manipulação da realidade através de símbolos, rituais e vontade. Mas o conhecimento se perdeu na Queda. Hoje eles caçam relíquias, manuscritos e ruínas pré-guerra para restaurar esse poder. Seu líder é um **Anjo Caído** — um nobre que falhou no Rito do Voo, sobreviveu à queda, e alega que o Éter sussurrou para ele durante a queda. E ele não é o único: outros membros do Círculo já demonstraram feitos que a ciência não explica.
+- **Relação com as corporações**: Hostis. As corporações veem a "magia" como superstição — e ficam nervosas quando o Círculo demonstra poderes que não deveriam existir.
+- **Relação com outras facções**: Tentam recrutar membros dos Mãos de Caridade para estudar o Desejo como possível fonte mágica. A Corrente os caça como hereges. A Irmandade do Pistão Livre acha que são malucos, mas úteis contra as corporações.
 
 ---
 

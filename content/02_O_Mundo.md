@@ -9,13 +9,13 @@ Antigos continentes se fundiram em uma vastidão de areia cinzenta, rochas expos
 **Clima:**
 - Dias escaldantes (50°C+), noites congelantes (-10°C)
 - Tempestades de areia eletrostática (resíduos da guerra)
-- Névoas de Desejo gasoso em áreas de alta concentração (tóxicas)
+- Névoas de Desejo gasoso em áreas onde o lodo foi despejado ou vazou
 
-**Perigos naturais:**
+**Perigos:**
 - Criaturas mutadas pelos resquícios da guerra
 - Tempestades de cinzas radioativas
 - Areias movediças instáveis
-- Bolsões de gás Desejo (explosivos)
+- Bolsões de Desejo enterrado (vazamentos de transporte, execuções em massa)
 
 ## A Espiral
 
@@ -24,13 +24,13 @@ As 12 cidades-colmeia foram construídas em formação espiral, partindo do cent
 ### Mapa da Espiral
 
 ```
-         .--[12]--.
+        .--[12]--.
        /     |     \
-    [11] ---+--- [1]
+    [11]  ---+---   [1]
     /        |        \
   [10] --- Centro --- [2]
     \        |        /
-    [9]  ---+---  [3]
+    [9]   ---+---   [3]
        \     |     /
          '--[8]--'
 ```
@@ -52,13 +52,13 @@ Espalhadas entre as cidades, há dezenas de comunidades de pessoas que rejeitara
 - **Postos de troca** — Pontos neutros entre cidades
 - **Fortalezas faccionistas** — Bases fortificadas de facções
 
-Essas comunidades sobrevivem de comércio informal, caça de criaturas do deserto, mineração manual de Desejo e serviços para mercenários.
+Essas comunidades sobrevivem de comércio informal, caça de criaturas do deserto, serviços para mercenários — e, nas mais desesperadas, **venda de seus próprios membros** como fontes de Desejo para contrabandistas.
 
 ## Recursos
 
 | Recurso | Onde encontrar | Uso principal |
 |---------|---------------|---------------|
-| **Desejo** | Subsolo das cidades, bolsões no deserto | Combustível, pesquisa, armas |
+| **Desejo** | Extraído de pessoas no Subsolo | Combustível, pesquisa, armas |
 | **Água** | Reciclada nas cidades, aquíferos raros | Sobrevivência |
 | **Sucata** | Ruínas da guerra | Construção, armas, veículos |
 | **Metal** | Minas no deserto, desmanche | Indústria |
@@ -66,8 +66,8 @@ Essas comunidades sobrevivem de comércio informal, caça de criaturas do desert
 
 ## O Centro da Espiral
 
-Ruínas da instalação original da ORACLE. Nuvens de tempestade permanente. Altíssima concentração de Desejo cristalizado. Dizem que os **Espectros** (ecos das IAs mortas) ainda vagam por lá.
+Ruínas da instalação original da ORACLE. Nuvens de tempestade permanente. Dizem que a concentração de Desejo no centro é tão alta que o ar **geme**. Quem se aproxima sente dores no corpo, como se algo estivesse sendo puxado de dentro.
 
 **Ninguém que entrou no centro voltou com sanidade.**
 
-Alguns voltaram sem voltar — seus corpos retornaram, mas algo dentro deles foi embora.
+Alguns voltaram sem voltar — seus corpos retornaram, mas a **fonte** dentro deles foi drenada.

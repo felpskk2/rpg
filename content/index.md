@@ -1,6 +1,6 @@
 # Void — Cenário para 3D&T Victory
 
-> *"No princípio, o Desejo era apenas um erro. Depois, tornou-se o único combustível."*
+> *"Antes do Desejo, o mundo tinha regras. Depois, só têm perguntas."*
 
 ## Visão Geral
 
@@ -30,12 +30,14 @@ Toda cidade-colmeia possui 3 níveis verticais:
 |-------|------|-----------|----------------|
 | 1º | **Os Céus** | Anjos (nobreza) | Asas biomecânicas, rito do voo, ar puro |
 | 2º | **Os Trabalhadores** | Plebeus | Indústria, comércio, vida comum |
-| 3º | **O Subsolo / Lixão** | Criminosos, cobaias | Extração de Desejo, experimentos |
+| 3º | **O Subsolo / Lixão** | Criminosos, cobaias, fontes | Extração de Desejo de pessoas, experimentos |
 
 ## Conceitos-Chave
 
-- **Desejo** — Lodo negro com propriedades desconhecidas. Extraído no subsolo. Pode ser combustível, matéria-prima, veneno ou algo mais.
+- **Desejo** — A essência da vontade humana, materializada. Extraído de pessoas no Subsolo. Usado como combustível.
+- **Vazios** — Pessoas que tiveram todo o Desejo extraído. Corpos vivos sem ambição, sonhos ou identidade. Vagam sem rumo até morrer.
 - **Anjos** — Elite com asas biomecânicas implantadas ao nascer. Rito de passagem: saltam do topo da cidade. Quem voa é sangue puro.
+- **Magia (Éter)** — Real, mas esquecida. A humanidade dominava o Éter antes da guerra. O Círculo do Éter busca restaurar esse conhecimento.
 - **IAs Proibidas** — A Grande Guerra foi causada por IAs rebeldes. Posse ou criação de IA é crime capital.
 - **Mercenários** — Fazem de tudo: guarda-costas, assassinos, escoltas, exploração de ruínas.
 - **Comunidades Externas** — Pessoas que rejeitam o controle corporativo. Protegidas por facções.
@@ -44,7 +46,7 @@ Toda cidade-colmeia possui 3 níveis verticais:
 
 | Arquivo | Conteúdo |
 |---------|----------|
-| [[01_Historia]] | A Grande Guerra, a Queda, o surgimento do Desejo |
+| [[01_Historia]] | A Grande Guerra, a Queda, a descoberta do Desejo |
 | [[02_O_Mundo]] | O Deserto, a Espiral, recursos, clima |
 | [[03_Cidades-Colmeia]] | Os 3 níveis, os Anjos, o Subsolo |
 | [[04_Mega-Corporacoes]] | As 12 corporações |

@@ -51,7 +51,7 @@ Cada uma das 12 cidades-colmeia é propriedade de uma mega-corporação. Elas fo
 - **Posição na Espiral**: 3
 - **Especialidade**: Energia, combustível, geração de vapor
 - **Símbolo**: Uma chama negra dentro de um círculo de engrenagens
-- **Descrição**: A Chama Eterna controla **toda a energia do Void**. Eles refinam Desejo bruto em combustível utilizável, mantêm os reatores a vapor das cidades e gerenciam a rede elétrica. Sem eles, as cidades-colmeia param. Recentemente começaram a experimentar com Desejo como fonte de energia direta — o que preocupa as outras corporações.
+- **Descrição**: Antes do Desejo, a Chama Eterna controlava a energia do Void através de carvão e vapor — monopólio sólido e previsível. Quando o Desejo foi descoberto, perceberam que seu império podia ruir se não se adaptassem. Hoje são os maiores refinadores de Desejo bruto em combustível — mas o processo é **experimental e moralmente convenientemente ignorado**. Os reatores tradicionais ainda são a base, mas a pressão para migrar para Desejo (mais barato, mais potente) cresce a cada dia.
 - **Relação com as outras**: Poderosas mas isoladas. Todos as temem porque sabem que um corte de energia pode destruir uma cidade.
 - **Força**: Monopólio energético, tecnologia de refino de Desejo
 - **Fraqueza**: Suas instalações são alvos constantes de sabotagem
@@ -61,7 +61,7 @@ Cada uma das 12 cidades-colmeia é propriedade de uma mega-corporação. Elas fo
 - **Posição na Espiral**: 4
 - **Especialidade**: Pesquisa científica, experimentação com Desejo, biotecnologia
 - **Símbolo**: Um frasco com lodo negro dentro de um crânio estilizado
-- **Descrição**: A corporação mais temida e secreta. Os laboratórios da Mentes Vazias ocupam quarteirões inteiros do subsolo de sua cidade. Eles estudam o Desejo em todas as suas formas: puro, gasoso, cristalizado, injetado em cobaias. São os responsáveis pelos implantes biomecânicos dos Anjos e buscam incansavelmente replicar a consciência artificial sem IAs.
+- **Descrição**: Antes do Desejo, a Mentes Vazias era uma corporação de pesquisa biológica — remédios, próteses, implantes (como as asas dos Anjos). Foram **eles que descobriram o Desejo** em 498 AG, durante experimentos com prisioneiros no Subsolo da Cidade 8. Desde então, **abandonaram tudo** para estudá-lo. Hoje seus laboratórios ocupam quarteirões inteiros, onde pesquisam o lodo negro em todas as formas e buscam maneiras de extraí-lo com mais eficiência — e menos morte.
 - **Relação com as outras**: Evitadas e desprezadas, mas essenciais. A Ordo Veritas as monitora de perto.
 - **Força**: Conhecimento sobre o Desejo que ninguém mais tem
 - **Fraqueza**: Experimentos perigosos já vazaram e causaram tragédias
@@ -81,7 +81,7 @@ Cada uma das 12 cidades-colmeia é propriedade de uma mega-corporação. Elas fo
 - **Posição na Espiral**: 6
 - **Especialidade**: Medicina, cirurgia, implantes biomecânicos
 - **Símbolo**: Uma mão humana com dedos de metal segurando um bisturi
-- **Descrição**: A Carne & Metal é a corporação que **transforma corpos**. São os cirurgiões que implantam as asas nos Anjos, que instalam próteses em trabalhadores acidentados, que fazem experimentos de aprimoramento humano nos criminosos do Subsolo. Desenvolveram técnicas de integrar Desejo ao corpo humano com relativo sucesso — seus "Augmentados" são a prova viva disso.
+- **Descrição**: A Carne & Metal é a corporação que **transforma corpos**. São os cirurgiões que implantam as asas nos Anjos, que instalam próteses em trabalhadores acidentados, que fazem experimentos de aprimoramento humano nos criminosos do Subsolo. Desde a descoberta do Desejo, têm tentado — com sucesso **instável** — integrar o lodo negro ao corpo humano. Seus "Augmentados" são a prova viva (e perigosa) disso.
 - **Relação com as outras**: Indispensável para a nobreza (que precisa das asas). A Mentes Vazias (Corp 4) as vê como concorrentes na pesquisa com Desejo. A Ordo Veritas as monitora de perto por questões éticas.
 - **Força**: Monopólio da medicina avançada e implantes
 - **Fraqueza**: Depende da Mentes Vazias para entender o Desejo que usam
@@ -101,7 +101,7 @@ Cada uma das 12 cidades-colmeia é propriedade de uma mega-corporação. Elas fo
 - **Posição na Espiral**: 8
 - **Especialidade**: Processamento químico, refino avançado, produção em massa de derivados do Desejo
 - **Símbolo**: Três frascos interligados com líquido negro
-- **Descrição**: Enquanto a Mentes Vazias (Corp 4) pesquisa **o que o Desejo é**, a Alquimia Negra pesquisa **o que o Desejo pode fazer**. Eles desenvolvem aplicações práticas: combustíveis mais eficientes, lubrificantes, explosivos, medicamentos, venenos. Se a Mentes Vazias descobre uma propriedade, a Alquimia Negra encontra um uso comercial. São a ponte entre a ciência pura e o mercado.
+- **Descrição**: Antes do Desejo, a Alquimia Negra era uma modesta indústria química — tintas, solventes, fertilizantes. Quando a Mentes Vazias descobriu o Desejo, a Alquimia foi a primeira a **ver o potencial de mercado**. Enquanto a Corp 4 pesquisa **o que o Desejo é**, a Alquimia Negra pesquisa **o que o Desejo pode render**. Desenvolvem aplicações práticas: combustíveis, lubrificantes, explosivos, medicamentos, venenos — e não fazem perguntas sobre a origem da matéria-prima.
 - **Relação com as outras**: Parceiras comerciais da Mentes Vazias e da Chama Eterna. Competem com a Ferrum por patentes de novas tecnologias.
 - **Força**: Capacidade de industrializar Desejo em escala
 - **Fraqueza**: Seus processos são instáveis — acidentes químicos são comuns
