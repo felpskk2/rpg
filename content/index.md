@@ -53,4 +53,5 @@ Toda cidade-colmeia possui 3 níveis verticais:
 | [[05_Faccoes]] | Facções das comunidades externas |
 | [[06_Mercenarios]] | Mercenários, sindicatos, contratos |
 | [[07_Desejo]] | O lodo negro, propriedades, pesquisa |
-| [[08_Regras_3D&T]] | Criação, vantagens, equipamentos |
+| [[08_Regras_3D&T]] | Criação, vantagens, equipamentos, arquétipos |
+| [[09_Magia]] | O Éter, escolas, lista de magias |

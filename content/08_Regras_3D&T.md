@@ -10,14 +10,23 @@ Campanhas em Void usam o sistema **3D&T Victory** com **100 pontos para criaçã
 
 ### Passo 1: Conceito
 
-Defina quem é seu personagem no Void:
-- **Mercenário** — Faz de tudo por dinheiro
-- **Refugiado** — Fugiu de uma cidade-colmeia
-- **Ex-corporativo** — Trabalhou para uma corporação e sabe seus segredos
-- **Anjo Caído** — Falhou no Rito do Voo, sobreviveu
-- **Cientista** — Pesquisador do Desejo, da Ferrum ou da Carne & Metal
-- **Facção** — Membro de uma das 5 facções
-- **Nômade** — Nasceu e viveu no deserto
+O Void é habitado apenas por **humanos** — mas a vida no deserto, as corporações e o Desejo criaram arquétipos muito distintos. Escolha um:
+
+#### Arquétipos Sociais
+- **Mercenário** — Faz de tudo por dinheiro. Livre, sem lealdade permanente.
+- **Refugiado** — Fugiu de uma cidade-colmeia. Conhece o deserto e a dureza da vida.
+- **Ex-corporativo** — Trabalhou para uma corporação. Sabe segredos que os outros não sabem.
+- **Cientista** — Pesquisador do Desejo, da Ferrum, Mentes Vazias ou Carne & Metal.
+- **Nômade** — Nasceu e cresceu no deserto. Conhece cada duna e cada perigo.
+- **Facção** — Membro leal de uma das 5 facções externas.
+
+#### Arquétipos Físicos
+- **Comum** — Humano sem modificações. Versátil, sem chamar atenção.
+- **Anjo** — Nobre com asas biomecânicas. Pode ser sangue puro ou caído. Requer a vantagem **Asas Biomecânicas**.
+- **Augmentado** — Corpo modificado com implantes biomecânicos. Pode ser ex-funcionário da Carne & Metal, ou ex-cobaia. Requer a vantagem **Implante de Desejo**.
+- **Mutante do Deserto** — Exposição prolongada ao Desejo ou à radiação da guerra deformou e transformou seu corpo. Pele ressecada, olhos brilhantes, veias negras aparentes. +1 em R, -1 em H.
+- **Cobaia de Laboratório** — Criado ou modificado em laboratório corporativo. Marcas de agulhas, órgãos crescidos em tanque. Pode ter habilidades inesperadas. +1 em um atributo à escolha, mas **Marca de Cobaia** gratuita.
+- **Espectro** — Esteve no centro da espiral e voltou. Algo dentro de você foi embora — e algo mais veio habitar o vazio. Visões, lapsos de memória, fragmentos de outras vozes na sua cabeça. +2 em perícias de Conhecimento (Espectros), mas -1 em interação social (pessoas sentem que há algo errado em você).
 
 ### Passo 2: Atributos (distribua pontos)
 
@@ -49,6 +58,8 @@ Distribua pontos entre os atributos (os valores comuns para 100 pontos variam en
 | Lábia | H | Convencer, mentir, negociar |
 | Conhecimento (Corporações) | — | Saber sobre as 12 corporações |
 | Conhecimento (Desejo) | — | Entender o lodo negro |
+| Conhecimento (Éter) | — | Saber sobre magia, tradições perdidas |
+| Éter (Magia) | H | Canalizar o Éter, lançar magias |
 | Pilotar (Asas) | H | Voar com asas biomecânicas (Anjos) |
 | Manufatura | H | Fabricar itens, modificar veículos |
 
@@ -91,9 +102,8 @@ Distribua pontos entre os atributos (os valores comuns para 100 pontos variam en
 - Status social elevado nos Céus
 
 **Afinidade com o Éter** (6 pontos) — Apenas Círculo do Éter
-- Você despertou para a magia real. Pode manipular o Éter em pequena escala.
-- Permite realizar **feitos menores**: acender fogo, mover objetos leves, criar luz, sentir presenças
-- Uma vez por sessão, pode tentar um **feito maior** (teste de H ou R, a critério do mestre)
+- Você despertou para a magia real. Pode usar a perícia **Éter** para lançar magias (veja [[09_Magia]])
+- Começa com **3 PM** e conhece 2 magias de nível Menor
 - Personagens normais não sabem que magia existe — usar poderes abertamente atrai atenção
 
 ### Passo 5: Desvantagens (recebem pontos)
