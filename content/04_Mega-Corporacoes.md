@@ -2,27 +2,32 @@
 
 > *"12 corporações. 12 cidades. Uma verdade: ninguém é dono de nada."*
 
-Cada uma das 12 cidades-colmeia é propriedade de uma mega-corporação. Elas formam o **Conselho do Pacto**, que se reúne periodicamente na cidade neutra (nº 6) para discutir regras e resolver disputas.
+Cada uma das 12 cidades-colmeia é propriedade de uma mega-corporação. Elas formam o **Conselho do Pacto**, que se reúne periodicamente em Áurea (Cidade 1) — a cidade neutra — para discutir regras e resolver disputas.
 
 ---
 
 ## A Estrutura do Conselho
 
-- **Corporação 0 — Ordo Veritas** — A Fiscalizadora. Não tem cidade própria — sua sede flutua entre as cidades.
-- **Corporações 1 a 11** — Cada uma governa sua cidade e responde à Ordo Veritas.
+- **Corporação 0 — Ordo Veritas** — Acima de todas. Ninguém sabe onde está, quem lidera ou quantos são. Mas todos sabem que ela **existe**.
+- **Corporações 1 a 12** — Cada uma governa sua cidade em público. Em particular, todas sabem que podem estar sendo observadas.
 
 ---
 
 ## As 12 Corporações
 
-### Ordo Veritas — A Fiscalizadora
+### Ordo Veritas — A Sombra
 
-- **Posição**: Nômade (sede móvel)
-- **Especialidade**: Auditoria, investigação, aplicação do Pacto
-- **Símbolo**: Um olho dentro de uma engrenagem
-- **Descrição**: Criada pelo Pacto original para garantir que nenhuma corporação viole os acordos. Tem autoridade para invadir qualquer cidade, confiscar recursos e prender executivos. É temida e odiada por todas as outras.
-- **Força**: Agentes altamente treinados, acesso total a todas as cidades
-- **Fraqueza**: Orçamento limitado, precisa do apoio de pelo menos 3 outras corporações para ações maiores
+- **Posição**: Desconhecida. Nunca está no mesmo lugar duas vezes.
+- **Símbolo**: Nenhum oficial. Quem precisa reconhecer um agente, já está marcado.
+- **Especialidade**: Vigilância total, aplicação do Pacto, eliminação de ameaças ao equilíbrio.
+- **Descrição**: A Ordo Veritas foi criada pelo Pacto original, mas ninguém sabe exatamente **como** ela opera. Não há sede, não há bandeira, não há uniforme. Seus agentes são **qualquer pessoa** — um vendedor no mercado, um guarda da Olho de Ferro, um Anjo nos Céus, um mercenário no deserto. A Ordo está em toda parte e em lugar nenhum.
+  
+  Eles não têm cidade própria — não precisam. Se movem constantemente. Suas ordens chegam por mensageiros anônimos, bilhetes deixados em pontos cegos, códigos sussurrados no Mercado Cinzento. Ninguém sabe quem lidera a Ordo. Alguns dizem que é um conselho de três. Outros, que é uma única pessoa que usa identidades diferentes. Outros ainda, que **não há líder** — que a Ordo é uma ideia, e ideias não podem ser mortas.
+  
+  Um agente da Ordo não existe em registro nenhum. Não teve infância documentada, não tem família conhecida, não tem nome — apenas um código alfanumérico que muda a cada missão. São treinados desde crianças em locais que não constam em mapa algum. Leais apenas à Ordo. E **ninguém** sabe quantos são.
+
+  A Ordo não produz nada, não extrai nada, não negocia nada. Ela apenas **observa**. E quando o equilíbrio do Void é ameaçado, ela age — silenciosamente, precisamente, definitivamente.
+- **Força**: Onipresença. Nenhuma corporação sabe quem é leal e quem é da Ordo. Paranoia é a maior arma deles.
 
 ---
 
@@ -61,10 +66,16 @@ Cada uma das 12 cidades-colmeia é propriedade de uma mega-corporação. Elas fo
 - **Posição na Espiral**: 4
 - **Especialidade**: Pesquisa científica, experimentação com Desejo, biotecnologia
 - **Símbolo**: Um frasco com lodo negro dentro de um crânio estilizado
-- **Descrição**: Antes do Desejo, a Mentes Vazias era uma corporação de pesquisa biológica — remédios, próteses, implantes (como as asas dos Anjos). Foram **eles que descobriram o Desejo** em 498 AG, durante experimentos com prisioneiros no Subsolo da Cidade 8. Desde então, **abandonaram tudo** para estudá-lo. Hoje seus laboratórios ocupam quarteirões inteiros, onde pesquisam o lodo negro em todas as formas e buscam maneiras de extraí-lo com mais eficiência — e menos morte.
-- **Relação com as outras**: Evitadas e desprezadas, mas essenciais. A Ordo Veritas as monitora de perto.
-- **Força**: Conhecimento sobre o Desejo que ninguém mais tem
-- **Fraqueza**: Experimentos perigosos já vazaram e causaram tragédias
+- **Descrição**: Antes do Desejo, a Mentes Vazias era uma corporação de pesquisa biológica — remédios, próteses, implantes (como as asas dos Anjos). Foram **eles que descobriram o Desejo** em 498 AG — ou pelo menos foi o que eles **disseram** ao Conselho. Há quem jure que a Mentes Vazias sabia do Desejo há muito mais tempo e esperou o momento certo para revelá-lo.
+
+  Hoje, eles **controlam toda a cadeia de pesquisa do Desejo**. A Chama Eterna (Corp 3) depende deles para refinar combustível. A Carne & Metal (Corp 6) depende deles para estabilizar implantes. A Alquimia Negra (Corp 8) licencia patentes deles. Sem a Mentes Vazias, a indústria do Desejo **não existe**.
+
+  Seus laboratórios ocupam bairros inteiros do subsolo. Eles têm instalações secretas em outras cidades que nem a Ordo Veritas conhece. Sabem mais sobre o Desejo do que qualquer um — e compartilham **apenas o que lhes convém**.
+
+  Os "experimentos perigosos que vazaram" que todos conhecem? Teve um mês passado. Teve outro na semana retrasada. Acontece com frequência. A Mentes Vazias aprende **com os erros** — os erros dos outros.
+- **Relação com as outras**: Essenciais para todas. A Ordo Veritas tenta monitorá-las, mas a Mentes Vazias sempre está um passo à frente.
+- **Força**: Monopólio absoluto do conhecimento sobre o Desejo — todas as outras dependem delas
+- **Fraqueza**: Se alguém descobrir o que eles realmente estão fazendo nos laboratórios secretos, nem a Ordo Veritas vai conseguir conter a reação
 
 ### Corp 5 — Vox Silens — Comunicação & Espionagem
 
@@ -152,7 +163,7 @@ Cada uma das 12 cidades-colmeia é propriedade de uma mega-corporação. Elas fo
 
 | # | Nome | Especialidade | Posição |
 |---|------|---------------|---------|
-| — | **Ordo Veritas** | Fiscalização | Nômade |
+| — | **Ordo Veritas** | Vigilância total | Desconhecida |
 | 1 | **Áurea** | Conselho Administrativo | Centro (neutra) |
 | 2 | **Ferrum** | Tecnologia & Engenharia | 2 |
 | 3 | **Chama Eterna** | Energia & Combustível | 3 |

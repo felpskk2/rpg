@@ -101,7 +101,7 @@ O Desejo não se minera. **Extrai-se.** O Subsolo não tem perfuradoras — tem 
 
 As corporações usam o Subsolo como laboratório de testes. Cobaias humanas são submetidas a:
 
-- **Injeção direta de Desejo** no sangue — para criar super-soldados
+- **Injeção direta de Desejo** no sangue — sempre cria Monstros de Lodo, mas as corporações insistem em tentar
 - **Exposição a vapores concentrados** — para estudar os efeitos em massa
 - **Implantes biomecânicos experimentais** — alimentados por micro-reatores de Desejo
 - **Extrações prolongadas** — para maximizar a produção por fonte

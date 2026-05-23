@@ -1,4 +1,4 @@
-o# 07 — O Desejo
+# 07 — O Desejo
 
 > *"Desejo não se minera. Desejo se extrai. E a matéria-prima é você."*
 

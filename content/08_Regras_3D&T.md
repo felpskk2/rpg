@@ -227,3 +227,57 @@ Distribua pontos entre os atributos (os valores comuns para 100 pontos variam en
 | Tratamento médico (simples) | 20 moedas |
 | Tratamento médico (exposição a gás Desejo) | 150 moedas |
 | Implante biomecânico | 500+ moedas |
+
+---
+
+## Tecnologia do Void
+
+### Implantes Biomecânicos
+
+Os implantes usam **micro-reatores selados de Desejo** — não há contato com o sangue, portanto não há risco de criar Monstros de Lodo. Mas vazamentos podem acontecer.
+
+| Implante | Custo | Efeito | Risco |
+|----------|-------|--------|-------|
+| **Membro Robótico** | 300 moedas | +1 em F para ações com aquele membro | Vazamento: -1 em F por 1 semana |
+| **Olhos de Águia** | 400 moedas | +1 em H para testes de percepção e pontaria | Vazamento: cegueira temporária (1 turno) |
+| **Coração de Desejo** | 800 moedas | +1 em R. +2 em testes de resistência a veneno e doença | Vazamento: dano interno, -2 em R até tratamento |
+| **Revestimento Dérmico** | 500 moedas | +1 em A (armadura natural) | Vazamento: queimaduras químicas na pele |
+| **Asas Biomecânicas** | (vantagem) | Voo, manobras aéreas | Falha mecânica em resultado 1 no dado |
+
+### Armas a Vapor
+
+Todas as armas a vapor usam **cartuchos de vapor comprimido**. Um cartucho dura:
+
+| Arma | Tiros por cartucho | Recarga | Observação |
+|------|---------------------|---------|------------|
+| Pistola a Vapor | 6 | 1 turno | Leve, fácil de esconder |
+| Rifle a Vapor | 3 | 2 turnos | Longo alcance, precisa de apoio |
+| Escopeta a Vapor | 2 | 2 turnos | Acerto em área, curto alcance |
+| Metralhadora a Vapor | 20 | 3 turnos | Rajada, superaquece se usada 3 turnos seguidos |
+
+**Manutenção**: Armas a vapor precisam de limpeza e lubrificação a cada 100 tiros. Negligenciar causa -1 no dano acumulativo até serem limpas.
+
+### Veículos
+
+**Modificações Comuns:**
+
+| Modificação | Custo | Efeito |
+|-------------|-------|--------|
+| Blindagem Leve | 200 moedas | +1 A para ocupantes |
+| Blindagem Pesada | 500 moedas | +2 A, mas -1 em velocidade |
+| Motor Turbinado | 400 moedas | +1 em testes de pilotagem em retas |
+| Pneus de Esteira | 150 moedas | Ignora penalidades de areia movediça |
+| Lança-Gás Desejo | 300 moedas | Dispara nuvem de gás (paralisante, área) |
+| Metralhadora Acoplada | 600 moedas | PD+1, 20 tiros, uso apenas do passageiro |
+
+**Consumo de Desejo**: Veículos modificados para Desejo queimam 1 litro a cada 100 km (ou 1 hora de uso intenso). Veículos tradicionais a carvão queimam 10 kg a cada 50 km.
+
+### Comunicação
+
+| Método | Alcance | Descrição |
+|--------|---------|-----------|
+| **Telégrafo a Vapor** | Entre cidades (via cabos) | Mensagens curtas, rápido, mas caro. Controlado pela Vox Silens (Corp 5). |
+| **Rádio de Curto Alcance** | ~10 km | Equipamento volumoso, usado por milícias e caravanas. Falível em tempestades. |
+| **Lampiões de Código** | Visual (linha de visão) | Lampiões que piscam em padrões. Comunicação básica entre comunidades vizinhas. |
+| **Correio Montado** | Qualquer distância | Mensageiros a cavalo ou moto. Lento, mas confiável. |
+| **Sinal de Fumaça de Desejo** | Visual (longa distância) | Fumaça preta que sobe alta e reta. Usada em emergências por comunidades externas. |

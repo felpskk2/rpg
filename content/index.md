@@ -55,3 +55,6 @@ Toda cidade-colmeia possui 3 níveis verticais:
 | [[07_Desejo]] | O lodo negro, propriedades, pesquisa |
 | [[08_Regras_3D&T]] | Criação, vantagens, equipamentos, arquétipos |
 | [[09_Magia]] | O Éter, escolas, lista de magias |
+| [[10_NPCs]] | Azazel, Gustavo, Dra. Tatsumi, A Voz |
+| [[11_Cultura]] | Moeda, comida, religião, lazer, justiça, gírias |
+| [[12_Fichas_NPCs]] | Fichas 3D&T de Azazel, Gustavo, Dra. Tatsumi, A Voz |

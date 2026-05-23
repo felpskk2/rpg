@@ -40,9 +40,9 @@ Uma corporação foi eleita **Fiscalizadora**: a **Ordo Veritas**, encarregada d
 
 As cidades foram construídas com tecnologia a vapor e mecânica — **nada de IAs**. Nunca mais.
 
-## A Era da Estabilidade (151-498 AG)
+## A Era da Estabilidade (300-498 AG)
 
-Por quase **350 anos**, o Void se manteve estável. As 12 cidades-colmeia prosperaram com tecnologia a vapor. A sociedade dos Anjos se consolidou. As facções nasceram e morreram. O mundo tinha suas regras.
+Por quase **200 anos**, o Void se manteve estável. As 12 cidades-colmeia prosperaram com tecnologia a vapor. A sociedade dos Anjos se consolidou. As facções nasceram e morreram. O mundo tinha suas regras.
 
 Ninguém sabia que, nas profundezas sob a espiral, algo estava crescendo.
 
